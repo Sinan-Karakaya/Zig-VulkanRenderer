@@ -1,0 +1,11 @@
+zig-out
+zig-cache
+
+vendors/*
+
+*.o
+*.exe
+*.out
+*.a
+*.so
+*.dll
